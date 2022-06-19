@@ -1,0 +1,181 @@
+
+
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.header-main-div{
+    background-image: url('../img/Fondo\ Morado.png');
+    background-repeat:  no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 11rem;
+   
+}
+.navbar-brand {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-left: 4rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.logo-img{
+    width: 9rem ;
+}
+.Dondo-Comparar {
+    width: 46.5%;
+    padding-left: 4rem;
+}
+.Dondo-Comparar  li a{
+    text-decoration: none;
+    
+}
+.navbar-btn-leermas{
+    font: normal normal 600 1rem Poppins;
+
+color: #383838;
+text-transform: uppercase;
+opacity: 1;
+}
+.medecine-img {
+    width: 45rem;
+    left: 38rem;
+    top: 11.3rem;
+}
+.dot-img {
+    left: 7rem;
+    width: 10rem;
+    top: 6.5rem;
+}
+
+.violate-btn{
+    background: transparent linear-gradient(90deg, #863398 0%, #BC36D9 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 20px #86339883;
+    border-radius: 38px;
+    opacity: 1;
+    padding: 0.7rem 2rem ;
+}
+.orange-btn{
+    background: transparent linear-gradient(90deg, #F1813A 0%, #E86E36 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 10px 20px #F1813A65;
+border-radius: 38px;
+padding: 0.7rem 2rem ;
+opacity: 1;
+}
+.violate-btn:hover{
+    background: linear-gradient(to right, #e2cfe7,  #c823ed);
+    color: #863398 !important;
+}
+.orange-btn:hover{
+    color: #E86E36 !important;
+    background: linear-gradient(to right,#efe0d8,#E86E36 );
+}
+
+.header-body{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+.btn{
+    border: none;
+}
+.img-div1{
+    padding-left: 6rem;
+    padding-right: 2rem;
+}
+.para-section{
+    padding-left: 2.5rem;
+    padding-top: 0.5rem;
+}
+
+.para-orange-heading{
+    color: #E86E36;
+    padding-bottom: 1.5rem;
+}
+.img-section1{
+    padding-top: 6rem;
+}
+.donde-footer{
+    border-bottom: 2px solid #E86E36;
+}
+.img-section2{
+    background-image: url('../img/Fondo\ Morado\ Claro.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 8rem;
+    padding-top: 8rem;
+    padding-bottom: -2rem;
+}
+.para-violate-heading{
+    color: #863398;
+    padding-bottom: 2rem;
+    padding-top: 2.5rem;
+    
+}
+
+.para-section-2{
+    padding-left: 5rem;
+    padding-right: 3rem;
+}
+
+.menu-items{
+    font: normal normal normal 0.9rem Poppins;
+    
+    color: #0F0F0F;
+    opacity: 1; 
+  }
+  .acerca-para{
+    font: normal normal normal 0.8rem Poppins;
+    
+    color: #363636;
+  }
+  .Acrca-link{
+      color: #BC36D9;
+      text-decoration: underline #BC36D9;
+  }
+  .aviso-underline{
+      text-decoration: underline white;
+     
+  }
+  .footer{
+      font-size: 0.8rem;
+      background-color: #863398;
+  }
+
+  .menu-main-div{
+    background: transparent url('../img/Footer\ Fondo.png') 0% 0% no-repeat padding-box;
+    background-size: 100% 100% ;
+opacity: 1;
+}
+.menu-heading{
+    color: blueviolet;
+}
+ul li a{
+    text-decoration: none !important ;
+    color: black;
+
+    
+}
+ul li{
+    list-style: none    ;
+}
+.footer{
+    background-color: blueviolet;
+}
+
+
+.menu-main-div{
+    margin-top: 10rem;
+    padding: 5rem 0rem 5rem 0rem;
+}
+.social-link{
+    background-color: #863398;
+    color: white;
+    padding: 0.5rem 0.5rem;
+    padding-left: 0.6rem;
+    margin-right: 0.8rem;
+    border-radius: 20px;
+   }
